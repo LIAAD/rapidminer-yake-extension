@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<operatorHelp lang="en_EN">
+    <!--  This is an example how to specify the translation of operator keys to names. -->
+    <operator>
+      <key>yake_keyword_extraction</key>
+      <name>YAKE Keyword Extraction</name>
+    </operator>
+   
+
+    <!-- This is how group keys are translated: -->
+
+    <group>
+      <key>yake_group</key>
+      <name>YAKE</name>
+    </group>
+
+
+</operatorHelp>

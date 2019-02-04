@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<!-- Use this file to group and order settings introduced by this extension
+			in the preferences dialog. -->
+	
+	<group key="yake_preferences_group">
+		<property key="yake.property.language" />
+		<property key="yake.property.ngram_size" />
+		<property key="yake.property.window_size" />
+		<property key="yake.property.number_of_results" />
+	</group>
+	
+	<group key="yake_group">
+		<property key="yake.property.language" />
+		<property key="yake.property.ngram_size" />
+		<property key="yake.property.window_size" />
+		<property key="yake.property.number_of_results" />
+	</group>
+
+</settings>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operators name="yakeextention" version="6.0" docbundle="pt/intesctec/nlp/rapidminer/extension/resources/i18n/OperatorsDocYakeExtention">
+    <group key="">
+        <!-- This is an example how to specify Operators and Operator groups. The Operator groups define
+                where Operators will be located in the Operator tree. -->
+        
+        <group key="yake_group">
+           <operator>
+              <key>yake_keyword_extraction</key>
+              <class>pt.intesctec.nlp.rapidminer.operators.YakeOperator</class>
+           </operator>
+         </group>
+        
+    </group>
+</operators>
